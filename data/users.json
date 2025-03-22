@@ -1,0 +1,10 @@
+[
+  {
+    "email": "qa@test.com",
+    "password": "wrongpassword"
+  },
+  {
+    "email": "admin@qajourney.net",
+    "password": "correctpassword"
+  }
+]
