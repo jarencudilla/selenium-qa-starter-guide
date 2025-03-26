@@ -10,8 +10,8 @@ Whether you're working with Selenium, Cypress, Playwright, or other testing tool
 
 | Framework  | Language     | Status        | Guide                                  |
 |------------|--------------|---------------|----------------------------------------|
-| Selenium   | JavaScript   | ✅ Ready       | [Read the Blog](https://qajourney.net/selenium-automation-qa-testers) |
-| Cypress    | JavaScript   | 🔜 Coming Soon | —                                      |
+| Selenium   | JavaScript   | ✅ Ready       | [Read the Selenium Post](https://qajourney.net/selenium-automation-qa-testers) |
+| Cypress    | JavaScript   | ✅ Ready       | [Read the Cypress Post](https://qajourney.net/cypress-automation-testing-guide) |
 | Playwright | JavaScript   | 🔜 Coming Soon | —                                      |
 | More soon  | Python, Ruby | 🔜 Coming Soon | —                                      |
 
