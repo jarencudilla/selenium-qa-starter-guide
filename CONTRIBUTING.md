@@ -46,26 +46,32 @@ Thank you for considering contributing to this project! Whether it’s a **bug f
 
 ### Submitting a Pull Request
 
-1. **Create a new branch**:
+#### **Work on the `develop` Branch First**
+All contributions should be made to the `develop` branch before merging into `main`. Follow these steps:
 
+1. **Create a new branch off `develop`**:
+   
    ```sh
+   git checkout develop
+   git pull origin develop  # Ensure you have the latest updates
    git checkout -b feature/my-new-test
    ```
 
 2. **Make changes & test locally.**
 3. **Commit your changes**:
-
+   
    ```sh
    git commit -m "Added a new Cypress test for form validation"
    ```
 
 4. **Push to GitHub**:
-
+   
    ```sh
    git push origin feature/my-new-test
    ```
 
-5. **Create a Pull Request** using the [PR Template](.github/PULL_REQUEST_TEMPLATE.md).
+5. **Create a Pull Request to merge into `develop`**, using the [PR Template](.github/PULL_REQUEST_TEMPLATE.md).
+6. Once approved, maintainers will merge `develop` into `main` at the appropriate time.
 
 ---
 
@@ -89,3 +95,4 @@ We’re looking for contributors to:
 📢 Join the **QAJourney Community** & help build **the best QA automation sandbox!**  
 
 🚀 **Happy testing!**
+
