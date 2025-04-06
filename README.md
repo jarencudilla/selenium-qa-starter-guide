@@ -12,7 +12,7 @@ Whether you're working with Selenium, Cypress, Playwright, or other testing tool
 |------------|--------------|---------------|----------------------------------------|
 | Selenium   | JavaScript   | ✅ Ready       | [Read the Selenium Post](https://qajourney.net/selenium-automation-qa-testers) |
 | Cypress    | JavaScript   | ✅ Ready       | [Read the Cypress Post](https://qajourney.net/cypress-automation-testing-guide) |
-| Playwright | JavaScript   | 🔜 Coming Soon | —                                      |
+| Playwright | JavaScript   | ✅ Ready       | [Read the Playwright Post](https://qajourney.net/playwright-for-qa-testing) |
 | More soon  | Python, Ruby | 🔜 Coming Soon | —                                      |
 
 ---
@@ -53,4 +53,6 @@ Your donation helps fund more blog guides, free learning tools, and testing sand
 - 📺 YouTube: [@QAJourneyBlog](https://www.youtube.com/@QAJourneyBlog)  
 - 📘 Facebook: [facebook.com/qajourneyblog](https://www.facebook.com/qajourneyblog)  
 - 💼 LinkedIn: [QA Journey Blog](https://www.linkedin.com/company/qa-journey-blog)  
-- 💻 GitHub: [@jarencudilla](https://github.com/jarencudilla)  
+- 💻 GitHub: [@jarencudilla](https://github.com/jarencudilla) 
+- Hashnode: [QA Journey Blog](https://qajourney.hashnode.dev/)
+- Dev.to: [QA Journey @ Dev.to](https://dev.to/qajourney) 
